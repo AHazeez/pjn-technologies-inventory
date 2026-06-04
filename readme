@@ -1,1 +1,93 @@
 
+# PJN Technologies Inventory Management System
+
+## Project Overview
+
+This project was developed using Odoo Community Edition.
+
+The system manages:
+
+* Product Inventory
+* Stock Tracking
+* Purchase Orders
+* Vendor Management
+* Inventory Reports
+
+## Modules Used
+
+* Inventory
+* Purchase
+
+## Features
+
+* Product Management
+* Warehouse Management
+* Stock Quantity Tracking
+* Purchase Order Processing
+* Vendor Management
+* Inventory Reporting
+
+## Tools & Technologies
+
+* Odoo Community 19
+* PostgreSQL
+* Python
+* GitHub
+
+## Project Workflow
+
+Vendor
+→ Purchase Order
+→ Receive Products
+→ Inventory Stock Updated
+→ Reporting
+
+## Author
+
+Abdul Hazeez
+# PJN Technologies Inventory Management System
+
+## Project Overview
+
+This project was developed using Odoo Community Edition.
+
+The system manages:
+
+* Product Inventory
+* Stock Tracking
+* Purchase Orders
+* Vendor Management
+* Inventory Reports
+
+## Modules Used
+
+* Inventory
+* Purchase
+
+## Features
+
+* Product Management
+* Warehouse Management
+* Stock Quantity Tracking
+* Purchase Order Processing
+* Vendor Management
+* Inventory Reporting
+
+## Tools & Technologies
+
+* Odoo Community 19
+* PostgreSQL
+* Python
+* GitHub
+
+## Project Workflow
+
+Vendor
+→ Purchase Order
+→ Receive Products
+→ Inventory Stock Updated
+→ Reporting
+
+## Author
+
+Abdul Hazeez
